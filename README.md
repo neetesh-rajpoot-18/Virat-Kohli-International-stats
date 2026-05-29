@@ -6,6 +6,12 @@ It highlights his consistency, peak years, and dominance across different format
 
 ---
 
+## 📊 Dashboard Preview
+
+![Virat Kohli International Stats](Virat Kohli International Stats SR.png)
+
+---
+
 ## 📊 Key Features
 - **Career Highlights**: Total runs (24K+), highest score (235), batting average (58.01).
 - **Format Analysis**: Batting averages in ODI (57.1), Test (48.5), and T20 (64.0).
