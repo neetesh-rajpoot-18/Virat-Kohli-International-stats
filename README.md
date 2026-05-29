@@ -6,9 +6,11 @@ It highlights his consistency, peak years, and dominance across different format
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Dashboard
 
-![Virat Kohli International Stats](Virat Kohli International Stats SR.png)
+
+
+![Virat Kohli International Cricket Stats](https://raw.githubusercontent.com/neetesh-rajpoot-18/Virat-Kohli-International-stats/main/Virat%20Kohli%20International%20Stats%20SS.png)
 
 ---
 
