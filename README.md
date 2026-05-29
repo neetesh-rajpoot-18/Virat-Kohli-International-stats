@@ -22,8 +22,5 @@ It highlights his consistency, peak years, and dominance across different format
 
 ---
 
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/neetesh-rajpoot-18/virat-kohli-cricket-dashboard.git
+
 
